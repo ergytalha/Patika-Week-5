@@ -1,6 +1,6 @@
 # Javascript Saat ve Karşılama - Pratic 1
 ## Canlı Site
-[Saat & Karşılama](https://javascript-saat-karsilama.netlify.app/)
+[Saat & Karşılama](https://ergytalha.github.io/Patika-Week-5/pratic-1/)
 ![Proje Ekran Görüntüsü](./pratic-1/img/scrennshot.png)
 
 
