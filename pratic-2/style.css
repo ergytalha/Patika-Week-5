@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{ 
+    font-family: Arial, sans-serif;
+    background-color: #2d3d50;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+    margin: 3rem;
+}
+.page-title {
+    font-size: 3.5rem;
+    color: #fff;
+}
+.drumkit {
+    width: 75vh;
+}
+.drumkit-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+}
+.drum  {
+    list-style: none;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 9px;
+    translate: ease -in-out 0.5s;
+}
+.drum:hover  {
+    filter: drop-shadow(2px 2px 2px black);
+}
